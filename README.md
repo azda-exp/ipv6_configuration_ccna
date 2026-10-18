@@ -1,4 +1,4 @@
-# IPv6 Configuration Lab
+IPv6 Configuration Lab
 
 A basic Cisco Packet Tracer lab demonstrating IPv6 addressing and routing between multiple networks.
 
